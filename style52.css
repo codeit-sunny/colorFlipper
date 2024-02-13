@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px 30px 60px 0;
+}
+.container button{
+    background-color:black;
+    color: white;
+    font-weight: 800;
+    border-radius: 3px;
+    height: 40px;
+    width: 9rem;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    border:none;
+    outline:none;
+     
+}
